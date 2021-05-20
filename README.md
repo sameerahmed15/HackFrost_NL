@@ -5,7 +5,7 @@ The COVID-19 pandemic has negatively affected many industries like tourism, educ
 # Solution
 Our solution was a web application called "Lecture Party" that allows students to easily host group study sessions to view asynchronous university lectures in an interactive environment. 
 
-![alt text](https://github.com/sameerahmed15/HackFrost_NL/imgs/Dashboard.png "Dashboard image")
+![alt text](imgs/Dashboard.png "Dashboard image")
 
 
 Inline-style: 
