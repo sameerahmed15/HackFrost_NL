@@ -10,7 +10,7 @@ Our solution was a web application called "Lecture Party" that allows students t
 ### Email Doubts 
 ![alt text](imgs/Email.png "Email")
 ### Video Player
-![alt text](imgs/Video view.png "Video View")
-### Email
-![alt text](imgs/Email.png "Email")
+![alt text](imgs/VideoView.png "Video View")
+### Chat with Participants
+![alt text](imgs/ChatView.png "Chat")
 
